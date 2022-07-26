@@ -1,4 +1,5 @@
-![](Codeusername78.svg)
+![](https://user-images.githubusercontent.com/76993080/181039144-517df41d-005e-4c34-9cfb-5a6962b16ba3.gif)
+
 <h1 align="center">Hi 👋, I'm Codeusername78!</h1>
 <h3 align="center">A passionate developer from India!</h3>
 <img align = "right" alt = "Coding" width = "200" src = "https://th.bing.com/th/id/OIP.zdaSpxoPHv8DaosKuhtu5wHaGE?w=233&h=191&c=7&r=0&o=5&dpr=1.5&pid=1.7">
